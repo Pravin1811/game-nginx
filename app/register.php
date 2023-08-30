@@ -76,7 +76,7 @@ if(isset($_POST["submit"])){
         <div class="col-lg-8">
               <div class="alert alert-danger alert-dismissible fade show" role="alert">
                 <h4 class="alert-heading">Don't have an account?</h4>
-                <p>Why do you want to have a account? Kindly contact Parvin.</p>
+                <p>Why do you want to have a account? Kindly contact Pravin.</p>
                 <hr>
                 <p class="mb-0">Self registration has been disabled</p>
               </div>
